@@ -1,0 +1,25 @@
+/* Importing Google fonts */
+@import url("https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;700&family=Karla:ital,wght@0,400;0,700;1,400;1,700&display=swap");
+
+/* Importing component files */
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+/* General style rules for fonts and colors */
+body {
+  font-family: 'Karla', sans-serif;
+  font-size: 18px;
+  margin: 0px;
+}
+
+h1, h2, h3 {
+  font-family: 'Amatic SC', cursive;
+  font-weight: bold;
+}
+
+a {
+  text-decoration: none;
+}

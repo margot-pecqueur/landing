@@ -1,0 +1,9 @@
+.btn-green {
+  background-color: #68b0ab;
+  padding: 15px 20px;
+  border-radius: 5px;
+  color:white;
+  font-weight: bold;
+  font-family: 'Amatic SC', cursive;
+  font-size: 20px;
+}
